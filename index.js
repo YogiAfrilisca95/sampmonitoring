@@ -22,8 +22,8 @@ for (const file of commandFiles) {
 }
 
 // Server SAMP details
-const SERVER_IP = '157.254.166.204';  // Ganti dengan IP server SAMP Anda
-const SERVER_PORT = 7777;  // Ganti dengan port server SAMP Anda
+const SERVER_IP = '159.223.67.162';  // Ganti dengan IP server SAMP Anda
+const SERVER_PORT = 7004;  // Ganti dengan port server SAMP Anda
 
 // Fungsi untuk mengambil status server SAMP
 function getSampStatus() {

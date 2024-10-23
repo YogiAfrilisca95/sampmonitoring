@@ -3,5 +3,15 @@
     "discord.js": "^14.15.3",
     "dotenv": "^16.4.5",
     "samp-query": "^0.1.5"
-  }
+  },
+  "name": "sampmonitoring",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CLVR Project (Yogi Afrilisca)",
+  "license": "ISC",
+  "description": ""
 }

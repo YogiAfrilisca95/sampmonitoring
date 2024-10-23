@@ -1,8 +1,8 @@
 const { SlashCommandBuilder, EmbedBuilder } = require('discord.js');
 const samp = require('samp-query');
 
-const SERVER_IP = '157.254.166.204';  // Ganti dengan IP server SAMP Anda
-const SERVER_PORT = 7777;  // Ganti dengan port server SAMP Anda
+const SERVER_IP = '159.223.67.162';  // Ganti dengan IP server SAMP Anda
+const SERVER_PORT = 7004;  // Ganti dengan port server SAMP Anda
 
 module.exports = {
     data: new SlashCommandBuilder()
